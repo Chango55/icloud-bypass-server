@@ -1,5 +1,5 @@
 {
-	"InternationalMobileEquipmentIdentity" = "013172008466932";
+	"InternationalMobileEquipmentIdentity" = 013884002775387
 	"ActivityURL" = "https://albert.apple.com/deviceservices/activity";
 	"ActivationRandomness" = "5B817444-7FD6-4376-AFF9-658ECAFC2948";
 	"UniqueDeviceID" = "639aece53438593648e0a85f55d759fe8ff0f8ff";
